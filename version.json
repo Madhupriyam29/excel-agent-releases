@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "downloadUrl": "https://github.com/Madhupriyam29/excel-agent-releases/releases/latest/download/ExcelAgentSetup.msi",
-  "releaseNotes": "Skill picker, auto-import, status badges"
+  "releaseNotes": "  Auto-update verification build (no functional changes from 1.0.5)"
 }
