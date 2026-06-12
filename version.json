@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.8",
   "downloadUrl": "https://github.com/Madhupriyam29/excel-agent-releases/releases/latest/download/ExcelAgentSetup.msi",
-  "releaseNotes": "  Auto-update verification build (no functional changes from 1.0.5)"
+  "releaseNotes": "  Test build to verify the smoother (no-flicker) update experience added in v1.0.7."
 }
