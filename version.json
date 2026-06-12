@@ -1,8 +1,5 @@
 {
   "version": "1.0.9",
   "downloadUrl": "https://github.com/Madhupriyam29/excel-agent-releases/releases/latest/download/ExcelAgentSetup.msi",
-  "releaseNotes": "    - AgentXL now silently reports a successful install (version, OS info,
-    timestamp) once per version. No personal data or file contents are
-    collected — this helps us track which versions are in use and catch
-    install failures early "
+  "releaseNotes": "- AgentXL now silently reports a successful install (version, OS info,timestamp) once per version. No personal data or file contents are collected — this helps us track which versions are in use and catch install failures early "
 }
