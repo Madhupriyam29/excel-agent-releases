@@ -1,5 +1,8 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "downloadUrl": "https://github.com/Madhupriyam29/excel-agent-releases/releases/latest/download/ExcelAgentSetup.msi",
-  "releaseNotes": "  Test build to verify the smoother (no-flicker) update experience added in v1.0.7."
+  "releaseNotes": "    - AgentXL now silently reports a successful install (version, OS info,
+    timestamp) once per version. No personal data or file contents are
+    collected — this helps us track which versions are in use and catch
+    install failures early "
 }
